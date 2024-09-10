@@ -12,7 +12,7 @@
     <table align="center">
         <tr>
             <td>Chesnaught Collector - A discord bot meant to collect images, trade and have fun !</td>
-            <td>And thats all...</td>
+            <td>And thats all ! New projects comming soon...</td>
         </tr>    
     </table>
 </div>
