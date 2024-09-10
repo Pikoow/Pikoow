@@ -4,7 +4,7 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/Pikoow/pikoow.github.io">Zorocord Set Generator</a> - A tool to generate any Zorocord set for Pokemon Showdown</td>
+            <td><a href="https://github.com/Pikoow/pikoow.github.io">Hisuian-Zoroark Set Generator</a> - A tool to generate any Hisuian-Zoroark set for Pokemon Showdown</td>
             <td><a href="https://github.com/Pikoow/Zorocord_Bot">Auction Bot</a> - A discord bot that can organise Pokemon League auctions</td>
         </tr>
     </table>
