@@ -9,7 +9,7 @@
         </tr>
     </table>
     <h4 align="left>In developpement</h4>
-    <table align="center>
+    <table align="center">
         <tr>
             <td>Chesnaught Collector - A discord bot meant to collect images, trade and have fun !</td>
             <td>And thats all...</td>
