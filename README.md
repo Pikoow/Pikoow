@@ -8,7 +8,7 @@
             <td><a href="https://github.com/Pikoow/Zorocord_Bot">Auction Bot</a> - A discord bot that can organise Pokemon League auctions</td>
         </tr>
     </table>
-    <h4 align="left>In developpement</h4>
+    <h4 align="left">In developpement</h4>
     <table align="center">
         <tr>
             <td>Chesnaught Collector - A discord bot meant to collect images, trade and have fun !</td>
