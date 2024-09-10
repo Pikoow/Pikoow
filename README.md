@@ -4,14 +4,15 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/eust-w/gopic">Zorocord Set Generator</a> - A tool to generate any Zorocord set for Pokemon Showdown</td>
-            <td><a href="https://github.com/eust-w/esh">Auction Bot</a> - A discord bot that can organise Pokemon League auctions</td>
+            <td><a href="https://github.com/Pikoow/pikoow.github.io">Zorocord Set Generator</a> - A tool to generate any Zorocord set for Pokemon Showdown</td>
+            <td><a href="https://github.com/Pikoow/Zorocord_Bot">Auction Bot</a> - A discord bot that can organise Pokemon League auctions</td>
         </tr>
     </table>
     <h4 align="left>In developpement</h4>
     <table>
         <tr>
             <td>Chesnaught Collector - A discord bot meant to collect images, trade and have fun !</td>
+            <td>And thats all...</td>
         </tr>    
     </table>
 </div>
