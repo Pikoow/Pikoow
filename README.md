@@ -11,7 +11,7 @@
     <h4 align="left">In developpement</h4>
     <table align="center" background-color="#eee">
         <tr>
-            <td>Chesnaught Collector - A discord bot meant to collect images, trade and have fun !</td>
+            <td>None</td>
             <td>And thats all ! New projects coming soon...</td>
         </tr>    
     </table>
